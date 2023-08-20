@@ -1,0 +1,20 @@
+.bg-bubel{
+
+    background-image: url("../../../assets/img/slider/bubble.png"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+.img-border{
+    border-radius: 50%;
+}
+.hero-image {
+    background-image: url("../../../assets/img/slider/bubble.png"); /* The image used */
+    width: 27rem;
+    height: 180px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    margin-right: 3%;
+  }

@@ -1,0 +1,542 @@
+/**
+*
+*	Name:			IRANYekan Font
+*	Version:			3.3
+*	Author:			Moslem Ebrahimi (moslemebrahimi.com)
+*	Created on:		Sep 17, 2020
+*	Updated on:		Sep 17, 2020
+*	Website:			http://fontiran.com
+*	Copyright:		Commercial/Proprietary Software
+--------------------------------------------------------------------------------------
+فونت ایران یکان یک نرم افزار مالکیتی محسوب می شود. جهت آگاهی از قوانین استفاده از این فونت ها لطفا به وب سایت (فونت ایران دات کام) مراجعه نمایید
+--------------------------------------------------------------------------------------
+IRANYekan fonts are considered a proprietary software. To gain information about the laws regarding the use of these fonts, please visit www.fontiran.com
+--------------------------------------------------------------------------------------
+This set of fonts are used in this project under the license: (.)
+--------------------------------------------------------------------------------------
+*
+**/
+@font-face {
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: bold;
+    src: url('/fonts/eot/IRANYekanWebBold.eot');
+    src: url('/fonts/eot/IRANYekanWebBold.eot?#iefix') format('embedded-opentype'), /* IE6-8 */ url('/fonts/woff/IRANYekanWebBold.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url('/fonts/woff2/IRANYekanWebBold.woff2') format('woff2'), /* FF39+,Chrome36+, Opera24+*/ url('/fonts/ttf/IRANYekanWebBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 100;
+    src: url('/fonts/eot/IRANYekanWebThin.eot');
+    src: url('/fonts/eot/IRANYekanWebThin.eot?#iefix') format('embedded-opentype'), /* IE6-8 */ url('/fonts/woff/IRANYekanWebThin.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url('/fonts/woff2/IRANYekanWebThin.woff2') format('woff2'), /* FF39+,Chrome36+, Opera24+*/ url('/fonts/ttf/IRANYekanWebThin.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 300;
+    src: url('/fonts/eot/IRANYekanWebLight.eot');
+    src: url('/fonts/eot/IRANYekanWebLight.eot?#iefix') format('embedded-opentype'), /* IE6-8 */ url('/fonts/woff/IRANYekanWebLight.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url('/fonts/woff2/IRANYekanWebLight.woff2') format('woff2'), /* FF39+,Chrome36+, Opera24+*/ url('/fonts/ttf/IRANYekanWebLight.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: normal;
+    src: url('/fonts/eot/IRANYekanWebRegular.eot');
+    src: url('/fonts/eot/IRANYekanWebRegular.eot?#iefix') format('embedded-opentype'), /* IE6-8 */ url('/fonts/woff/IRANYekanWebRegular.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url('/fonts/woff2/IRANYekanWebRegular.woff2') format('woff2'), /* FF39+,Chrome36+, Opera24+*/ url('/fonts/ttf/IRANYekanWebRegular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 500;
+    src: url('/fonts/eot/IRANYekanWebMedium.eot');
+    src: url('/fonts/eot/IRANYekanWebMedium.eot?#iefix') format('embedded-opentype'), /* IE6-8 */ url('/fonts/woff/IRANYekanWebMedium.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url('/fonts/woff2/IRANYekanWebMedium.woff2') format('woff2'), /* FF39+,Chrome36+, Opera24+*/ url('/fonts/ttf/IRANYekanWebMedium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 800;
+    src: url('/fonts/eot/IRANYekanWebExtraBold.eot');
+    src: url('/fonts/eot/IRANYekanWebExtraBold.eot?#iefix') format('embedded-opentype'), /* IE6-8 */ url('/fonts/woff/IRANYekanWebExtraBold.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url('/fonts/woff2/IRANYekanWebExtraBold.woff2') format('woff2'), /* FF39+,Chrome36+, Opera24+*/ url('/fonts/ttf/IRANYekanWebExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 850;
+    src: url('/fonts/eot/IRANYekanWebBlack.eot');
+    src: url('/fonts/eot/IRANYekanWebBlack.eot?#iefix') format('embedded-opentype'), /* IE6-8 */ url('/fonts/woff/IRANYekanWebBlack.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url('/fonts/woff2/IRANYekanWebBlack.woff2') format('woff2'), /* FF39+,Chrome36+, Opera24+*/ url('/fonts/ttf/IRANYekanWebBlack.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: 900;
+    src: url('/fonts/eot/IRANYekanWebExtraBlack.eot');
+    src: url('/fonts/eot/IRANYekanWebExtraBlack.eot?#iefix') format('embedded-opentype'), /* IE6-8 */ url('/fonts/woff/IRANYekanWebExtraBlack.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/ url('/fonts/woff2/IRANYekanWebExtraBlack.woff2') format('woff2'), /* FF39+,Chrome36+, Opera24+*/ url('/fonts/ttf/IRANYekanWebExtraBlack.ttf') format('truetype');
+}
+@font-face {
+    font-family: IRANSansX-Medium;
+    src: url('/fonts/ttf/IRANSansX-Medium.ttf');
+}
+
+
+
+body {
+    font-family: IRANSansX-Medium !important;
+    direction: rtl;
+    background-color: #cdcdcd;
+}
+
+h1, h2, h3, h4, h5, h6, input, textarea {
+    font-family: iranyekan !important;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.ltr {
+    direction: ltr;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-small {
+    font-size: 0.8em;
+}
+
+.text-xsmall {
+    font-size: 0.6em;
+}
+
+.text-large {
+    font-size: 1.2em;
+}
+
+.text-xlarge {
+    font-size: 1.4em;
+}
+
+.text-underline {
+    text-decoration: underline;
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.text-light {
+    font-weight: 300;
+}
+
+.text-regular {
+    font-weight: normal;
+}
+
+.text-medium {
+    font-weight: 500;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.text-extrabold {
+    font-weight: 800;
+}
+
+.text-black {
+    font-weight: 850;
+}
+
+.text-extrablack {
+    font-weight: 900;
+}
+
+blockquote {
+    font-weight: 500;
+    padding: 10px;
+    border: 1px dashed #666666;
+}
+
+.mainbox {
+    width: 100%;
+    background-color: #EFEFEF;
+    display: table;
+    margin-bottom: 30px;
+    border-right: 8px solid #CCFF33;
+}
+
+.mainboxnegativ {
+    width: 100%;
+    background-color: #000000;
+    display: table;
+    margin-bottom: 30px;
+    border-right: 8px solid #CCFF33;
+    color: #F9F9F9;
+}
+
+.mainbox2 {
+    font-size: 1em;
+    width: 90%;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.mainbox3 {
+    width: 100%;
+    background-color: #DFDFDF;
+    display: table;
+    margin-bottom: 30px;
+    border-right: 8px solid #bd70ff;
+}
+
+.mainbox2negativ {
+    font-size: 1em;
+    color: #F9F9F9;
+    background-color: #000000;
+    padding-right: 20px;
+}
+
+
+.farsiparagraph {
+    font-size: 1em;
+    width: 47%;
+    float: right;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.farsiparagraph_negativ {
+    font-size: 1em;
+    color: #F9F9F9;
+    background-color: #000000;
+    width: 47%;
+    float: right;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+
+.englishparagraph {
+    font-size: 1em;
+    width: 47%;
+    float: left;
+    direction: ltr;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+}
+
+.englishparagraph_negativ {
+    font-size: 1em;
+    color: #F9F9F9;
+    background-color: #000000;
+    width: 47%;
+    float: left;
+    direction: ltr;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+}
+
+.rightbox {
+    width: 60%;
+    padding-right: 20px;
+    padding-left: 5px;
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    min-width: 0px;
+    background-color: #F7F7F7;
+
+}
+
+.titelbox {
+    width: 60%;
+    padding-right: 25px;
+    padding-left: 0px;
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    min-width: 0px;
+    background-color: #d5d5d5;
+    color: #4B4B4B;
+}
+
+
+.lefttbox {
+
+    padding-right: 20px;
+    padding-left: 4px;
+    float: right;
+    margin-bottom: 10px;
+    min-width: 0px;
+}
+
+.alphabet {
+    width: 35%;
+    float: left;
+    font-size: 21em;
+    text-align: center;
+    font-weight: 500;
+    color: #999999;
+}
+
+.alphabet2 {
+    width: 35%;
+    float: left;
+    direction: ltr;
+    font-size: 1.6em;
+    text-align: left;
+    font-weight: 500;
+    color: #333333;
+    margin-top: 100px;
+}
+
+.footer {
+    font-weight: 300;
+    font-size: 0.7em;
+    text-align: center;
+    direction: ltr;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.text-success {
+    color: #23cb27 !important;
+}
+
+.mt-1 {
+    margin-top: 5px !important;
+}
+
+.mt-2 {
+    margin-top: 10px !important;
+}
+
+.mt-3 {
+    margin-top: 15px !important;
+}
+
+.mt-4 {
+    margin-top: 20px !important;
+}
+
+.mt-5 {
+    margin-top: 25px !important;
+}
+
+.mb-1 {
+    margin-bottom: 5px !important;
+}
+
+.mb-2 {
+    margin-bottom: 10px !important;
+}
+
+.mb-3 {
+    margin-bottom: 15px !important;
+}
+
+.mb-4 {
+    margin-bottom: 20px !important;
+}
+
+.mb-5 {
+    margin-bottom: 25px !important;
+}
+
+.ml-1 {
+    margin-left: 5px !important;
+}
+
+.ml-2 {
+    margin-left: 10px !important;
+}
+
+.ml-3 {
+    margin-left: 15px !important;
+}
+
+.ml-4 {
+    margin-left: 20px !important;
+}
+
+.ml-5 {
+    margin-left: 25px !important;
+}
+
+.mr-1 {
+    margin-right: 5px !important;
+}
+
+.mr-2 {
+    margin-right: 10px !important;
+}
+
+.mr-3 {
+    margin-right: 15px !important;
+}
+
+.mr-4 {
+    margin-right: 20px !important;
+}
+
+.mr-5 {
+    margin-right: 25px !important;
+}
+
+.m-1 {
+    margin: 5px !important;
+}
+
+.m-2 {
+    margin: 10px !important;
+}
+
+.m-3 {
+    margin: 15px !important;
+}
+
+.m-4 {
+    margin: 20px !important;
+}
+
+.m-5 {
+    margin: 25px !important;
+}
+
+.makeStyles-content-2{
+    padding: 0px 4rem !important;
+}
+
+.container {
+    padding: 0rem 4rem !important;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* Styling the alert container */
+
+.alert {
+    /* width: 40%; */
+    margin: 20px auto;
+    padding: 30px;
+    
+    border-radius: 5px;
+    box-shadow: 0 0 15px 5px #ccc;
+}
+
+
+/* Styling the close button */
+
+.close {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    opacity: 0.5;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 50%;
+    right: 15px;
+    top: 25px;
+    text-align: center;
+    font-size: 1.6em;
+    cursor: pointer;
+}
+
+
+/* Styling the standard alert message */
+
+.standard {
+    background-color: #ebebeb;
+    border-left: 5px solid #6c6c6c;
+}
+
+.standard .close {
+    border-color: #6c6c6c;
+    color: #6c6c6c;
+}
+
+
+/* Styling the success alert message */
+
+.success {
+    background-color: #04db5d;
+    border-right: 5px solid #178344;
+    color: #fff;
+}
+
+.success .close {
+    border-color: #178344;
+    color: #178344;
+}
+
+
+/* Styling the danger alert message */
+
+.danger {
+    background-color: #f7a7a3;
+    border-left: 5px solid #8f130c;
+}
+
+.danger .close {
+    border-color: #8f130c;
+    color: #8f130c;
+}
+
+
+/* Styling the warning alert message */
+
+.warning {
+    background-color: #ffd48a;
+    border-left: 5px solid #8a5700;
+}
+
+.warning .close {
+    border-color: #8a5700;
+    color: #8a5700;
+}
+
+a{
+    text-decoration: none;
+}
+.link-color {
+    color: rgb(22, 154, 180);
+}

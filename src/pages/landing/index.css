@@ -1,0 +1,23 @@
+.bg-image-landing{
+    background-image: url("../../assets/img/2525.png");
+    width: 100%;
+    padding-bottom: 1rem;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: 100% 100%;
+}
+.bg-image-landing-sec{
+    background-image: url("../../assets/img/ring.png");
+    width: 100%;
+    height: 80%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+    align-items: center;
+    
+}
+.bg-explaine{
+    background-image: url("../../assets/img/chairN.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}

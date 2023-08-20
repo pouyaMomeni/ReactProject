@@ -1,0 +1,18 @@
+.bg-hero-img{
+    background-image: url("../../assets/img/hero-old.png");
+    background-repeat: no-repeat;
+    background-color: white;
+    background-size: cover;
+    height: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.tipe{
+    border: 1px solid ;
+}
+
+
+/* #6C63FF */

@@ -1,0 +1,35 @@
+
+.px-6{
+    padding-right: 4.6rem!important;
+    padding-left: 4.6rem!important;
+}
+.mt-6{
+    margin-top: 1.74rem!important;}
+    .makeStyles-content-2{
+        padding: 0px 0.1rem !important;
+    }
+.customStyle{
+    margin-left: -1em;
+}    
+.gy-6{
+    --bs-gutter-y: 2.92rem !important;
+}
+.cleave{
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    direction: ltr !important;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    appearance: none;
+    border-radius: .375rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.border-question{
+    border-bottom: 1px solid green;
+}

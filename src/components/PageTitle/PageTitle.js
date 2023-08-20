@@ -1,0 +1,19 @@
+import React from "react";
+import {Button} from "@material-ui/core";
+// styles
+import useStyles from "./styles";
+// components
+import {Typography} from "../Wrappers";
+
+export default function PageTitle(props) {
+    var classes = useStyles();
+
+    return (
+        <>
+            
+        </>
+        // <div className={classes.pageTitleContainer}>
+
+        // </div>
+    );
+}
